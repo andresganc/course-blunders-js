@@ -28,3 +28,17 @@
         - Dependencias a instalar
             $ npm install --save-dev @babel/core @babel/cli @babel/preset-env
             $ npm install --save @babel/polyfill
+
+
+### Polyfill
+
+    - Los polyfill resuelven las nuevas funciones especiales de JS que no tienen traducion a codigo standar 
+            (Los agrega como librerias a nuestro codigo) 
+
+
+<br>
+
+    - Lista de Funciones y Metodos que se pueden transformar y los Objetos globales y metodos estaticos no se puden transformar y necesitan Polyfill
+<img src="./img/trans-polyfill.png" width="900px">
+
+<br>
