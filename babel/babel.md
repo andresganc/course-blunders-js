@@ -26,8 +26,11 @@
 
 
         - Dependencias a instalar
-            $ npm install --save-dev @babel/core @babel/cli @babel/preset-env
-            $ npm install --save @babel/polyfill
+            $ npm install -D @babel/core @babel/cli @babel/preset-env
+            $ npm install @babel/polyfill
+
+
+        - Crear en la carpeta raiz el archivo .babelrc y agregar el siguiente codigo.
 
 
 ### Polyfill
