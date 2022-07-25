@@ -1,2 +1,3 @@
 # course-babel-webpack
-Course NC - Babel WebPack
+
+Course NC - JavaScript & TypeScript (NodeJS)
