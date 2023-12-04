@@ -1,2 +1,0 @@
-
-document.body.appendChild(component());
