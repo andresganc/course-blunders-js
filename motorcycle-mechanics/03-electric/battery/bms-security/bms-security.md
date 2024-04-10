@@ -1,0 +1,4 @@
+
+# BMS - BATTERY MANAGMENT SYSTEM
+
+    - Un Sistema de Gestión de Batería (BMS) es un componente esencial en las baterías de litio. Su función principal es proporcionar control y protección avanzados, mejorando la eficiencia y prolongando la vida útil de la batería. El BMS supervisa constantemente las condiciones de la batería, protegiéndola de situaciones peligrosas como la sobrecarga o la descarga excesiva. Además, recopila datos en tiempo real sobre su estado y mantiene un equilibrio adecuado del voltaje entre las celdas individuales. En coches eléctricos y sistemas de almacenamiento, el BMS juega un papel fundamental para garantizar un uso seguro y prolongar la vida útil de las baterías. Los beneficios del BMS incluyen mayor seguridad, fácil acceso a información clave, reducción de costos de mantenimiento y reemplazo, y protección contra temperaturas extremas.
