@@ -1,0 +1,13 @@
+
+# COMPARATIVE CHANGE BATERIES PLOMO GEL <=> LITIO 
+
+
+    -
+
+
+PLOMO GEL           LITIO           CONTROLADOR
+
+48V / 20AH          48V / 30AH
+60V / 20AH          60V / 30AH
+72V / 32AH          72V / 40AH
+72V / 40AH          72V / 20AH
