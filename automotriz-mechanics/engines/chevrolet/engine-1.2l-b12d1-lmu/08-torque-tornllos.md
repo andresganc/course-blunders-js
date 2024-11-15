@@ -1,9 +1,7 @@
 
-
 # TABLE TORQUE - ENGINE 1.2L GM
 
     -  
-
 
 ## CUERPO (BLOCK - BODY)
 
@@ -29,11 +27,9 @@
         Fase 1: 15 n/m o 1,5 kgf/m o 11,06 lb/ft
         Fase 2: 33 n/m o 3,3 kgf/m o 24,3 lb/ft
 
-
-
 ## CULATA ()
 
-### Tornillos culata a cuerpo 
+### Tornillos culata a cuerpo
 
     * Tipo tornillo: M10
 
@@ -48,10 +44,4 @@
 
 ### Tornillos tapa culata
 
-
-
-
-
-
 ## CARTER ()
-
