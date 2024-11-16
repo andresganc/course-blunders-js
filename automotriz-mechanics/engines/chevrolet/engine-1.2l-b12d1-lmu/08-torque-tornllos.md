@@ -42,6 +42,19 @@
         3ra Etapa: 45°
         4ta Etapa: 45°
 
+
+### Tornillos arbol de levas
+
+    * Tipo tornillo: 
+
+    * Sustituir Tornillo / Tuerca: SI
+
+    * Torque
+
+        1ra Etapa: 
+
+        2da Etapa: 
+
 ### Tornillos tapa culata
 
 ## CARTER ()
