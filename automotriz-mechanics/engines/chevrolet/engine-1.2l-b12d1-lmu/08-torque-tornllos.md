@@ -42,19 +42,36 @@
         3ra Etapa: 45°
         4ta Etapa: 45°
 
-
 ### Tornillos arbol de levas
 
-    * Tipo tornillo: 
+    * Tipo tornillo: Hexagonal 
+
+    * Medida: 10mm
 
     * Sustituir Tornillo / Tuerca: SI
 
     * Torque
 
-        1ra Etapa: 
+        1ra Etapa:  5 lb/ft
 
-        2da Etapa: 
+        2da Etapa:  10 lb/ft
 
 ### Tornillos tapa culata
 
 ## CARTER ()
+
+### Tornillos filtro carter
+
+    * Tipo tornillo: Allen
+
+    * Medida: 
+
+    * Torque: 
+
+### Tornillos carter
+
+    * Tipo tornillo: Hexagonal
+
+    * Medida: 10mm
+
+    * Torque: 
