@@ -58,6 +58,12 @@
 
 ### Tornillos tapa culata
 
+    * Tipo tornillo: Hexagonal 
+    
+    * Medida: 10mm
+
+    * Torque: 
+
 ## CARTER ()
 
 ### Tornillos filtro carter
