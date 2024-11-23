@@ -54,7 +54,7 @@
 
         1ra Etapa:  5 lb/ft
 
-        2da Etapa:  10 lb/ft
+        2da Etapa:  7 lb/ft
 
 ### Tornillos tapa culata
 
